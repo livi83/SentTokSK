@@ -1,6 +1,6 @@
 import re
 
-class SentenceTokenize:
+class SentTokSK:
     def __init__(self):
         # Define patterns for sentence boundaries
         self.sentence_end_patterns = [
